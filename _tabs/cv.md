@@ -8,7 +8,7 @@ permalink: /cv/
 
 Download my latest CV below 👇  
 
-➡️ [Download My CV (PDF)](/assets/docs/Stephen-Mutunga-CV.pdf)
+➡️ [Download My CV (PDF)](/assets/docs/Stephen_Mutunga_CV.pdf)
 
 Or view it directly on [LinkedIn](https://www.linkedin.com/in/stephenmutunga/) 💼
 
