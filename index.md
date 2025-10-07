@@ -1,6 +1,7 @@
 ---
-layout: home
+layout: page
 title: "Welcome"
+permalink: /
 ---
 
 <div align ="center" style="margin-top: 50px; margin-bottom: 40px;">
