@@ -30,7 +30,7 @@ permalink: /
     </a>
 
     <a href="/cv/" 
-       style="display:inline-block; border:2px solid #0078D7; color:#0078D7; 
+       style="display:inline-block; background:#005fa3 border:2px solid #0078D7; color:#0078D7; 
               padding:10px 24px; border-radius:8px; text-decoration:none; margin:6px;">
        📄 View My CV
     </a>
