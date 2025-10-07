@@ -1,6 +1,6 @@
 ---
 title: About
-icon: fas fa user
+icon: fas fa code
 ---
 I am a Full-Stack Web Developer passionate about building modern, secure, and user-friendly systems that solve real-world problems. I specialize in web applications with seamless frontend integration, focusing on performance, automation, and intuitive user experiences.
 
