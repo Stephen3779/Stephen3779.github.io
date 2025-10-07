@@ -1,52 +1,33 @@
 ---
 title: About
-icon: fas fa code
----
-I am a Full-Stack Web Developer passionate about building modern, secure, and user-friendly systems that solve real-world problems. I specialize in web applications with seamless frontend integration, focusing on performance, automation, and intuitive user experiences.
-
-
-**My key skills:**
-
-Languages & Frameworks: PHP, HTML5, CSS3, JavaScript, Bootstrap, AdminLTE, Python, Java
-
-Databases: MySQL, phpMyAdmin, Firebase
-
-Frontend Integration: Responsive UI design, Select2 forms, modal and AJAX interactivity
-
-Backend Development: CRUD operations, session handling, authentication systems, and role-based dashboards
-
-Automation & AI: Smart chatbot integration, notification systems (SMS & email), and workflow automation
-
-Versioning & Maintenance: Code organization, modular project structure, and documentation
-
-Tools & Platforms: VS Code, XAMPP, cPanel, GitHub, Kaggle, Colab
-
+icon: fas fa-user
+order: 1
 ---
 
-**My services**
+# 👋 Hi, I'm Stephen
 
-End-to-end system development (frontend + backend)
+I'm a passionate **software developer** and **tech innovator** dedicated to building modern, intelligent, and user-friendly digital systems.  
+I focus on transforming real-world challenges into efficient web-based solutions.
 
-Custom dashboards for businesses and organizations
+### 💼 What I Do
+- **Web Development:** Full-stack solutions using PHP, MySQL, JavaScript, HTML, and CSS.  
+- **AI Integrations:** Smart chatbot development and automation tools for seamless user engagement.  
+- **System Design:** End-to-end development of intelligent management systems — including **Visitor & Driver Management**, **Banking Portals**, and **Client Dashboards**.  
+- **UI/UX Implementation:** Clean, responsive, and modern interfaces using Bootstrap and AdminLTE.
 
-Database-driven applications with user authentication
+### 🚀 Projects
+- **Smart Visitor & Departmental Notification System**  
+  A real-time visitor and driver tracking solution with SMS and email notifications.  
 
-Notification system setup (SMS, email, real-time alerts)
+- **Hoodhub Modern Solutions**  
+  A PHP-based business management suite focused on digital modernization.
 
-Clean documentation and deployment assistance
+- **AI Chatbot Integration**  
+  A responsive, intelligent assistant designed to automate inquiries and improve service delivery.
 
----
+### 📫 Contact Me
+- **Email:** [stephen@example.com](mailto:stephen@example.com)  
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
-*My outstanding projects*
-
-**Smart Visitor Management and Departmental Notification System:**
-A multi-role web platform that manages visitor and driver entries, department notifications, and approvals with real-time SMS and email updates.
-
-**Hoodhub Modern Solutions:**
-A digital service hub connecting users with modern tech solutions through a clean, scalable web interface.
-
-**AI Chatbot Integration:**
-Developed a styled, conversational chatbot UI integrated with PHP backend for intelligent client interactions.
-
-**Trading Bot Automation:**
-Developed an automated trading scripts focusing on real-time market data and execution logic.
+> *Building smart systems that work for people, not the other way around.*

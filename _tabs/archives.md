@@ -1,5 +1,9 @@
 ---
-layout: archives
+title: Archives
 icon: fas fa-archive
-order: 3
+order: 4
 ---
+
+Here’s a timeline of my posts, updates, and projects throughout my development journey.
+
+{% include archives.html %}
