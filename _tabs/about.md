@@ -26,8 +26,8 @@ I focus on transforming real-world challenges into efficient web-based solutions
   A responsive, intelligent assistant designed to automate inquiries and improve service delivery.
 
 ### 📫 Contact Me
-- **Email:** [stephen@example.com](mailto:stephen@example.com)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **Email:** [stephen@example.com](mailto:stevemuiwa736@gmail.com)  
+- **GitHub:** [github.com/yourusername](https://github.com/Stephen3779)  
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 > *Building smart systems that work for people, not the other way around.*
