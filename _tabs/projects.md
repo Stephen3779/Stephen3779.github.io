@@ -25,7 +25,7 @@ It enhances efficiency by automating notifications, tracking visits, and providi
 **🧰 Tech Stack:**
 PHP | MySQL | Bootstrap | AdminLTE | PHPMailer | Twilio API  
 
-**📂 Repository:** [GitHub Link](https://github.com/yourusername/visitor-management) *(replace with actual repo link)*  
+**📂 Repository:** [GitHub Link]() *(replace with actual repo link)*  
 
 ---
 
@@ -43,7 +43,7 @@ Built with scalability in mind, it provides service listings, dynamic content, a
 **🧰 Tech Stack:**
 PHP | HTML5 | CSS3 | MySQL | Bootstrap  
 
-**📂 Repository:** [GitHub Link](https://github.com/yourusername/hoodhub-modern-solutions)  
+**📂 Repository:** [GitHub Link]()  
 
 ---
 
@@ -61,7 +61,7 @@ The chatbot supports dynamic Q&A, custom styling, and backend integration for da
 **🧰 Tech Stack:**
 PHP | JavaScript | HTML | CSS | AI Chatbot API  
 
-**📂 Repository:** [GitHub Link](https://github.com/yourusername/php-chatbot)  
+**📂 Repository:** [GitHub Link]()  
 
 ---
 
@@ -79,7 +79,7 @@ It processes live market data and executes trades based on algorithmic logic.
 **🧰 Tech Stack:**
 Python | WebSocket API | Deriv SDK  
 
-**📂 Repository:** [GitHub Link](https://github.com/yourusername/deriv-trading-bot)  
+**📂 Repository:** [GitHub Link]()  
 
 ---
 
@@ -93,5 +93,5 @@ Python | WebSocket API | Deriv SDK
 ## 🌟 **Next Steps**
 I’m always open to collaboration or freelance system development.  
 If you’d like to discuss a custom project idea:  
-📧 [Reach out here](mailto:stephenmutunga@email.com) or view my full [CV](/cv).
+📧 [Reach out here]() or view my full [CV]().
 

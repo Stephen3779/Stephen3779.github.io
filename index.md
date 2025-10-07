@@ -23,21 +23,21 @@ My goal is to help businesses automate their workflows, improve communication, a
 
 ## 🚀 **Featured Projects**
 
-### 🏢 [Smart Visitor Management System](/projects/#smart-visitor-management-system)
+### 🏢 [Smart Visitor Management System]()
 A complete departmental and visitor management solution with automated SMS/email alerts, role-based dashboards, and real-time status updates.  
 
 **Tech Stack:** PHP, MySQL, Bootstrap, AdminLTE, Twilio (SMS), PHPMailer  
 
 ---
 
-### 🌐 [Hoodhub Modern Solutions](/projects/#hoodhub-modern-solutions)
+### 🌐 [Hoodhub Modern Solutions]()
 A scalable web platform offering digital services and modern tech solutions for growing businesses.  
 
 **Tech Stack:** PHP, HTML5, CSS3, MySQL, Bootstrap  
 
 ---
 
-### 🤖 [AI Chatbot Integration](/projects/#ai-chatbot-integration)
+### 🤖 [AI Chatbot Integration]()
 A conversational chatbot interface integrated with PHP backend for automated client interactions and dynamic responses.  
 
 **Tech Stack:** JavaScript, PHP, Chatbot API  
@@ -55,10 +55,10 @@ A conversational chatbot interface integrated with PHP backend for automated cli
 ---
 
 ## 💼 **Quick Links**
-- 📄 [View My CV](/cv)  
-- 💻 [See My Projects](/projects)  
-- ✉️ [Contact Me](mailto:stephenmutunga@email.com)  
-- 💼 [GitHub Profile](https://github.com/yourusername)
+- 📄 [View My CV]()  
+- 💻 [See My Projects]()  
+- ✉️ [Contact Me]()  
+- 💼 [GitHub Profile]()
 
 ---
 
@@ -66,4 +66,4 @@ A conversational chatbot interface integrated with PHP backend for automated cli
 I’m open to freelance, collaboration, or system development opportunities.  
 If you’re looking for someone to design and implement **a complete business system** from idea to deployment — I’d love to help.
 
-👉 [Send me an email](mailto:stephenmutunga@email.com) or connect via [GitHub](https://github.com/yourusername).
+👉 [Send me an email]() or connect via [GitHub]().
