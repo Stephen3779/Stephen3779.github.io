@@ -62,11 +62,15 @@ You can view my certifications [here](/cv/#certifications) 📜
 
 <div align="center">
 
-[<i class="fas fa-envelope"></i> stevemuiwa736@gmail.com](mailto:stevemuiwa736@gmail.com) •  
-[<i class="fab fa-github"></i> GitHub](https://github.com/Stephen3779) •  
-[<i class="fab fa-linkedin"></i> LinkedIn](https://linkedin.com/in/stephenmutunga)
-
+<div align="center" style="margin-top: 60px;">
+  <h2>📫 Let's Connect</h2>
+  <p>
+    <a href="mailto:stevemuiwa736@gmail.com">📧 Email</a> |
+    <a href="https://github.com/Stephen3779" target="_blank">💻 GitHub</a> |
+    <a href="https://linkedin.com/in/stephenmutunga" target="_blank">🔗 LinkedIn</a>
+  </p>
 </div>
+
 
 ---
 

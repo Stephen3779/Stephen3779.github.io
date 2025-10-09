@@ -120,7 +120,12 @@ I’m a **Full-Stack Developer** passionate about building modern web systems an
 
 ---
 
-### 📫 Get In Touch
-- **Email:** [stephenmutunga@gmail.com](mailto:stephenmutunga@gmail.com)  
-- **GitHub:** [Stephen3779](https://github.com/Stephen3779)  
-- **LinkedIn:** [Stephen Mutunga](https://www.linkedin.com/in/stephenmutunga/)
+<div align="center" style="margin-top: 60px;">
+  <h2>📫 Let's Connect</h2>
+  <p>
+    <a href="mailto:stevemuiwa736@gmail.com">📧 Email</a> |
+    <a href="https://github.com/Stephen3779" target="_blank">💻 GitHub</a> |
+    <a href="https://linkedin.com/in/stephenmutunga" target="_blank">🔗 LinkedIn</a>
+  </p>
+</div>
+
