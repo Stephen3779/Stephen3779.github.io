@@ -5,7 +5,7 @@ icon: fas fa-file-alt
 permalink: /cv/
 ---
 
-# 📄 My CV
+
 
 <div align="center" style="margin-top: 20px;">
   <a href="/assets/docs/Stephen_Mutunga_CV.pdf" target="_blank" 
@@ -15,7 +15,6 @@ permalink: /cv/
   </a>
 </div>
 
-Or view it directly on [**LinkedIn**](https://www.linkedin.com/in/stephenmutunga/) 💼  
 
 ---
 
