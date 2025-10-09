@@ -72,8 +72,6 @@ You can view my certifications [here](/cv/#certifications) 📜
 </div>
 
 
----
-
 <style>
 h1, h2, h3 {
   color: #0078d7;
