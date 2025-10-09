@@ -2,27 +2,32 @@
 layout: page
 title: "My CV"
 icon: fas fa-file-alt
-order: 2
 permalink: /cv/
 ---
 
 # 📄 My CV
 
-Download my latest CV below 👇  
+<div align="center" style="margin-top: 20px;">
+  <a href="/assets/docs/Stephen_Mutunga_CV.pdf" target="_blank" 
+     style="display:inline-block; background:#0078D7; color:white; padding:12px 28px; 
+     border-radius:10px; text-decoration:none; font-weight:600; box-shadow:0 3px 8px rgba(0,0,0,0.15);">
+    📥 Download Full CV (PDF)
+  </a>
+</div>
 
-➡️ [Download My CV (PDF)](/assets/docs/Stephen_Mutunga_CV.pdf)
-
-Or view it directly on [LinkedIn](https://www.linkedin.com/in/stephenmutunga/) 💼
+Or view it directly on [**LinkedIn**](https://www.linkedin.com/in/stephenmutunga/) 💼  
 
 ---
 
 ### 💡 Summary
 
-I’m a **Full-Stack Developer** specializing in:
+I’m a **Full-Stack Developer** passionate about building modern web systems and smart automation tools that simplify real-world processes.
+
+**Key Strengths:**
 - PHP / MySQL / Bootstrap web systems  
-- AI & automation tools  
-- Real-time notifications and dashboards  
-- Clean code and scalable architectures  
+- AI integrations & chatbot automation  
+- Real-time dashboards & alerts  
+- Clean, maintainable code  
 
 ---
 
@@ -30,47 +35,39 @@ I’m a **Full-Stack Developer** specializing in:
 - **Frontend:** HTML, CSS, JavaScript (ES6+), Bootstrap, React  
 - **Backend:** PHP, MySQL, Python  
 - **Tools:** Git, VS Code, GitHub Actions, cPanel  
-- **AI Integration:** Chatbot development, Natural Language Processing  
-- **Soft Skills:** Communication, teamwork, and attention to detail  
+- **AI Integration:** Chatbot development, NLP, and OpenAI API  
+- **Soft Skills:** Communication, teamwork, and detail-oriented problem solving  
 
 ---
 
 ### 🎓 Education
 - **BSc. in Information Technology**, Mount Kenya University  
-  *Specialization in Software Development & AI Systems*  
+  *Specialization: Software Development & AI Systems*  
 
 ---
 
-### 🏆 Certifications
-
-Here are some of my certifications (click to view or download):
+### 🏆 Certifications {#certifications}
 
 <div class="cert-grid">
 
 <div class="cert-card">
-  <h4>Python</h4>
-  <a href="assets/docs/Python Udemy.pdf" target="_blank">
-    📄 View Certificate
-  </a>
+  <h4>🐍 Python Certificate</h4>
+  <a href="/assets/docs/Python%20Udemy.pdf" target="_blank">📄 View Certificate</a>
 </div>
 
 <div class="cert-card">
-  <h4>Javascript</h4>
-  <a href="assets/docs/Javascript Udemy.pdf" target="_blank">
-    📄 View Certificate
-  </a>
+  <h4>💻 JavaScript Certificate</h4>
+  <a href="/assets/docs/Javascript%20Udemy.pdf" target="_blank">📄 View Certificate</a>
 </div>
 
 <div class="cert-card">
-  <h4>Introduction to cybersecurity</h4>
-  <a href="assets/docs/Introduction_to_Cybersecurity_certificate.pdf" target="_blank">
-    📄 View Certificate
-  </a>
+  <h4>🔒 Introduction to Cybersecurity</h4>
+  <a href="/assets/docs/Introduction_to_Cybersecurity_certificate.pdf" target="_blank">📄 View Certificate</a>
 </div>
 
 <div class="cert-card">
-  <h4>Career essentials in Cybersecurity</h4>
-  <a href="assets/docs/CertificateOfCompletion_Career Essentials in Cybersecurity by Microsoft and LinkedIn.pdf" target="_blank">
+  <h4>🧠 Career Essentials in Cybersecurity</h4>
+  <a href="/assets/docs/CertificateOfCompletion_Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.pdf" target="_blank">
     📄 View Certificate
   </a>
 </div>
@@ -80,21 +77,26 @@ Here are some of my certifications (click to view or download):
 <style>
 .cert-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 20px;
-  margin-top: 20px;
+  margin-top: 25px;
 }
 .cert-card {
   padding: 20px;
-  border: 1px solid #ddd;
   border-radius: 12px;
-  background: #fafafa;
+  background: linear-gradient(145deg, #f8f9fa, #ffffff);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
   text-align: center;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.cert-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.15);
 }
 .cert-card h4 {
   color: #0078D7;
   margin-bottom: 10px;
+  font-weight: 600;
 }
 .cert-card a {
   text-decoration: none;
@@ -112,13 +114,13 @@ Here are some of my certifications (click to view or download):
 
 **Smart Visitor Management & Departmental Notification System**  
 *Developer — Academic Project*  
-- Designed and developed a full-stack visitor management system.  
-- Implemented SMS and email notifications for department members.  
-- Built a real-time dashboard for admin, driver, and visitor tracking.  
+- Designed and developed a complete PHP + MySQL web system  
+- Implemented SMS and email notifications for departments  
+- Built a live dashboard for admin, driver, and visitor tracking  
 
 ---
 
 ### 📫 Get In Touch
 - **Email:** [stephenmutunga@gmail.com](mailto:stephenmutunga@gmail.com)  
 - **GitHub:** [Stephen3779](https://github.com/Stephen3779)  
-- **LinkedIn:** [Stephen Mutunga](https://www.linkedin.com/in/stephenmutunga/)  
+- **LinkedIn:** [Stephen Mutunga](https://www.linkedin.com/in/stephenmutunga/)
