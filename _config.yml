@@ -18,7 +18,7 @@ timezone: Nairobi
 
 title: Stephen Mutunga # the main title
 
-tagline: Data analysis| Web developmemt| Artificial intelligence enthuasist| # it will display as the subtitle
+tagline: Data Analysis | Web Development | Artificial Intelligence Enthusiast # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
  A brief interaction with me and getting to know my line of work. Feel free to reach out for any system development, data analysis and artificial intelligence.
@@ -100,7 +100,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/profile.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
